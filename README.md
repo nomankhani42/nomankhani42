@@ -10,7 +10,7 @@ I enjoy coding, learning new technologies, and building impactful projects.
 
 - **Portfolio**: [Visit My Portfolio](https://myportfolionoman.web.app/)
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/noman-khan-b37ab4273/)
-- **Facebook**: [Follow Me on Facebook]([https://facebook.com/your-facebook](https://www.facebook.com/iamnomankhani)
+- **Facebook**: [Follow Me on Facebook](https://www.facebook.com/iamnomankhani)
 
 
 ---
